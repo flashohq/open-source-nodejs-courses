@@ -8,7 +8,7 @@
 ****Prerequisites :- Basic Understanding of HTML, CSS , JavaScript ES6****
   
   
-### **Following is the list of Resources you need to Become a Node.js Developer :-** :-
+### **Following is the list of Resources you need to Become a Node.js Developer :-** 
 
 | Sno. |  Course Name | Description | Duration | Effort |  Frequency | Prerequisites | 
 | ----    |  ----                  | ----               |  ----          | ----      | ----                |---- |
